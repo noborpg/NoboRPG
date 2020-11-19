@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":356,"indent":0,"parameters":["mv3d camera pitch 80 .5"]},{"code":356,"indent":0,"parameters":["mv3d camera yaw 0 .5"]},{"code":0,"indent":0,"parameters":[]}],"name":"Regular Cam","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":356,"indent":0,"parameters":["mv3d camera pitch 70 .5"]},{"code":356,"indent":0,"parameters":["mv3d camera yaw 0 .5"]},{"code":0,"indent":0,"parameters":[]}],"name":"Alt Cam 1","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
