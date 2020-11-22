@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"$Nobo%(8)","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Nobby","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nobo","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":1,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Luok","traits":[],"initialLevel":1,"maxLevel":99,"name":"Luok","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sunbirb","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Creap","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$Nobo%(8)","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Nobby","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nobo","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":0,"characterName":"Nobby","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Luok","traits":[],"initialLevel":1,"maxLevel":99,"name":"Luok","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_3","characterIndex":0,"characterName":"Nobby","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sunbirb","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_4","characterIndex":0,"characterName":"Nobby","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Creap","nickname":"","note":"","profile":""}
 ]
