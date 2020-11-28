@@ -1,0 +1,27 @@
+{
+    "layers": [
+        {
+            "image": "000",
+            "image_mode": "stretched",
+            "palette_shift": 0
+        },
+        {
+            "image": "150",
+            "image_mode": "tiled",
+            "effect": {
+                "type": "horizontal_interlaced",
+                "amplitude": 256,
+                "frequency": 3
+            },
+            "palette_shift": 10,
+            "scroll": [0, 1]
+        }
+    ],
+    "configurations": {
+        "alta": [1, 0],
+        "default": {
+            "layers": [1, 0],
+            "speed": 2
+        }
+    }
+}
