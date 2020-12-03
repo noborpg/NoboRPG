@@ -6,14 +6,14 @@
             "palette_shift": 0
         },
         {
-            "image": "150",
+            "image": "323",
             "image_mode": "tiled",
             "effect": {
                 "type": "horizontal_interlaced",
                 "amplitude": 256,
                 "frequency": 3
             },
-            "palette_shift": 10,
+            "palette_shift": 0,
             "scroll": [0, 1]
         }
     ],
