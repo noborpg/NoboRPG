@@ -1,5 +1,5 @@
 //=============================================================================
-// MOG_BattleHud.js   -   (Template 01)
+// MOG_BattleHud.js   -   (Template 02)
 //=============================================================================
 
 /*:
@@ -12,7 +12,7 @@
  * @param Hud X-Axis
  * @text X-Axis
  * @desc Definição da posição X-Axis da Hud.
- * @default -90
+ * @default 90
  * @parent -> MAIN <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param Hud Y-Axis
@@ -137,13 +137,13 @@
  * @param Face X-Axis
  * @text X-Axis
  * @desc Definição da posição X-Axis da face.
- * @default 44
+ * @default 54
  * @parent -> FACE <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param Face Y-Axis
  * @text Y-Axis
  * @desc Definição da posição Y-Axis da face.
- * @default 72
+ * @default 16
  * @parent -> FACE <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param Face Shake Animation
@@ -176,7 +176,7 @@
  * @value 0
  * @option High (Above of Gauge)
  * @value 1
- * @default 0
+ * @default 1
  * @parent -> FACE <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param
@@ -194,13 +194,13 @@
  * @param Name X-Axis
  * @text X-Axis
  * @desc Definição da posição X-Axis do nome.
- * @default 0
+ * @default 70
  * @parent -> NAME <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param Name Y-Axis
  * @text Y-Axis
  * @desc Definição da posição Y-Axis do nome.
- * @default -20
+ * @default -7
  * @parent -> NAME <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param Name Align
@@ -251,13 +251,13 @@
  * @param HP Meter X-Axis
  * @text Gauge X-Axis
  * @desc Definição da posição X-Axis do medidor de HP.
- * @default 113
+ * @default 164
  * @parent -> HP <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param HP Meter Y-Axis
  * @text Gauge Y-Axis
  * @desc Definição da posição Y-Axis do medidor de HP.
- * @default 39
+ * @default 21
  * @parent -> HP <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param HP Meter Angle
@@ -270,7 +270,7 @@
  * @text Gradient Animation
  * @desc Ativar animação de gradiente no medidor.
  * É necessário que a imagem tenha 3x a largura do medidor.
- * @default false
+ * @default true
  * @type boolean 
  * @parent -> HP <<<<<<<<<<<<<<<<<<<<<<< 
  *
@@ -300,13 +300,13 @@
  * @param HP Number X-Axis
  * @text Number X-Axis
  * @desc Definição da posição X-Axis do numero de HP.
- * @default 175
+ * @default 265
  * @parent -> HP <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param HP Number Y-Axis
  * @text Number Y-Axis
  * @desc Definição da posição Y-Axis do numero de HP.
- * @default 23
+ * @default 0
  * @parent -> HP <<<<<<<<<<<<<<<<<<<<<<< 
  * 
  * @param MaxHP Number Visible
@@ -343,13 +343,13 @@
  * @param MP Meter X-Axis
  * @text Gauge X-Axis
  * @desc Definição da posição X-Axis do medidor de MP.
- * @default 125
+ * @default 297
  * @parent -> MP <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param MP Meter Y-Axis
  * @text Gauge Y-Axis
  * @desc Definição da posição Y-Axis do medidor de MP.
- * @default 77
+ * @default 21
  * @parent -> MP <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param MP Meter Angle
@@ -392,13 +392,13 @@
  * @param MP Number X-Axis
  * @text Number X-Axis
  * @desc Definição da posição X-Axis do numero de MP.
- * @default 186
+ * @default 397
  * @parent -> MP <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param MP Number Y-Axis
  * @text Number Y-Axis
  * @desc Definição da posição Y-Axis do numero de MP.
- * @default 61
+ * @default 0
  * @parent -> MP <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param MaxMP Number Visible
@@ -435,13 +435,13 @@
  * @param TP Meter X-Axis
  * @text Gauge X-Axis
  * @desc Definição da posição X-Axis do medidor de TP.
- * @default 113
+ * @default 420
  * @parent -> TP <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param TP Meter Y-Axis
  * @text Gauge Y-Axis
  * @desc Definição da posição Y-Axis do medidor de TP.
- * @default 115
+ * @default 21
  * @parent -> TP <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param TP Meter Angle
@@ -484,13 +484,13 @@
  * @param TP Number X-Axis
  * @text Number X-Axis
  * @desc Definição da posição X-Axis do numero de TP.
- * @default 175
+ * @default 520
  * @parent -> TP <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param TP Number Y-Axis
  * @text Number Y-Axis
  * @desc Definição da posição Y-Axis do numero de TP.
- * @default 99
+ * @default 0
  * @parent -> TP <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param MaxTP Number Visible
@@ -527,13 +527,13 @@
  * @param ATB Meter X-Axis
  * @text Gauge X-Axis
  * @desc Definição da posição X-Axis do medidor de ATB.
- * @default 80
+ * @default 0
  * @parent -> ATB <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param ATB Meter Y-Axis
  * @text Gauge Y-Axis
  * @desc Definição da posição Y-Axis do medidor de ATB.
- * @default 140
+ * @default 32
  * @parent -> ATB <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param ATB Meter Angle
@@ -565,13 +565,13 @@
  * @param States X-Axis
  * @text X-Axis
  * @desc Definição da posição X-Axis das condições.
- * @default 10
+ * @default 532
  * @parent -> STATES <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param States Y-Axis
  * @text Y-Axis
  * @desc Definição da posição Y-Axis das condições.
- * @default 120
+ * @default 0
  * @parent -> STATES <<<<<<<<<<<<<<<<<<<<<<< 
  *
  * @param States Mode
@@ -625,19 +625,19 @@
  * @value 0
  * @option Static
  * @value 1
- * @default 0
+ * @default 1
  * @parent -> W COMMAND <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param W Command X-Axis
  * @text X-Axis
  * @desc Definição do posição X-axis do comando.
- * @default 0
+ * @default 15
  * @parent -> W COMMAND <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param W Command Y-Axis
  * @text Y-Axis
  * @desc Definição do posição Y-axis do comando.
- * @default -15
+ * @default 440
  * @parent -> W COMMAND <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param W Command Width
@@ -1114,37 +1114,37 @@
  * @param Custom Position 1
  * @desc Definição da posição da hud.
  * Ex -     200,200
- * @default
+ * @default 220,450
  * @parent -> CUSTOM POSITION <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param Custom Position 2
  * @desc Definição da posição da hud.
  * Ex -     200,200
- * @default
+ * @default 220,495
  * @parent -> CUSTOM POSITION <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param Custom Position 3
  * @desc Definição da posição da hud.
  * Ex -     200,200
- * @default
+ * @default 220,540
  * @parent -> CUSTOM POSITION <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param Custom Position 4
  * @desc Definição da posição da hud.
  * Ex -     200,200
- * @default
+ * @default 220,585
  * @parent -> CUSTOM POSITION <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param Custom Position 5
  * @desc Definição da posição da hud.
  * Ex -     200,200
- * @default
+ * @default 220,630
  * @parent -> CUSTOM POSITION <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param Custom Position 6
  * @desc Definição da posição da hud.
  * Ex -     200,200
- * @default
+ * @default 220,675
  * @parent -> CUSTOM POSITION <<<<<<<<<<<<<<<<<<<<<<<
  *
  * @param Custom Position 7
