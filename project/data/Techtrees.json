@@ -1,0 +1,16 @@
+[
+  {
+    "uid": "Nobo",
+    "header": "Nobo",
+    "tech_description": "Nobo",
+    "icon": 0,
+    "bgimg": "",
+    "nodes": [],
+    "animation": {
+      "id": 0
+    },
+    "hideGoldCost": false,
+    "hideJPCost": false,
+    "costItems": []
+  }
+]
