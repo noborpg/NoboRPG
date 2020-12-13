@@ -1,12 +1,17 @@
 {
     "layers": [
         {
-            "image": "000",
+            "image": "005",
             "image_mode": "stretched",
+            "effect": {
+                "type": "vertical",
+                "amplitude": 256,
+                "frequency": 6
+            },
             "palette_shift": 0
         },
         {
-            "image": "323",
+            "image": "197",
             "image_mode": "tiled",
             "effect": {
                 "type": "horizontal_interlaced",
