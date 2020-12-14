@@ -11,5 +11,5 @@ null,
 {"id":9,"expanded":true,"name":"Nice Forest Road 1","order":7,"parentId":6,"scrollX":2278,"scrollY":932},
 {"id":10,"expanded":true,"name":"Battle Environments","order":11,"parentId":0,"scrollX":1708.5,"scrollY":699},
 {"id":11,"expanded":false,"name":"Luok House","order":9,"parentId":6,"scrollX":1508,"scrollY":1058.6666666666667},
-{"id":12,"expanded":true,"name":"Plains","order":12,"parentId":10,"scrollX":1696.5,"scrollY":741}
+{"id":12,"expanded":true,"name":"Plains","order":12,"parentId":10,"scrollX":1508,"scrollY":741.3333333333334}
 ]
