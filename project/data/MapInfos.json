@@ -10,6 +10,6 @@ null,
 {"id":8,"expanded":false,"name":"Intro Cutscene","order":10,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":9,"expanded":true,"name":"Nice Forest Road 1","order":7,"parentId":6,"scrollX":1018,"scrollY":611},
 {"id":10,"expanded":true,"name":"Battle Environments","order":11,"parentId":0,"scrollX":1708.5,"scrollY":699},
-{"id":11,"expanded":false,"name":"Luok House","order":9,"parentId":6,"scrollX":900,"scrollY":947},
+{"id":11,"expanded":false,"name":"Luok House","order":9,"parentId":6,"scrollX":1508,"scrollY":946.6666666666666},
 {"id":12,"expanded":true,"name":"Plains","order":12,"parentId":10,"scrollX":811,"scrollY":622}
 ]
